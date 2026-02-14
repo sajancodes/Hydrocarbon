@@ -1,0 +1,7 @@
+{
+  "name": "HoloHydro - Interactive Molecular Holograms",
+  "description": "A high-fidelity 3D molecular viewer utilizing hand tracking for gesture-based rotation and scaling, featuring a holographic aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
